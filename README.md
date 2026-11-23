@@ -1,5 +1,7 @@
 # brand-icons
 
+Read this in [繁體中文](README.zh-TW.md).
+
 Brand icons for kttc. and 1uyuu.
 
 ## kttc.
